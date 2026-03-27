@@ -4,6 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-streamlit==1.19.0
+streamlit
 joblib
-altair==4.2.2
+altair
